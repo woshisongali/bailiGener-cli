@@ -1,5 +1,3 @@
-# generator-baili-cli
-yeoman generator-baili-cli
 #第一版简单的copy工作
 #安装命令
 npm install -g generator-baili-cli
