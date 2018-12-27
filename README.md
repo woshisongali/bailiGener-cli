@@ -1,0 +1,2 @@
+# bailiGener-cli
+js generator
